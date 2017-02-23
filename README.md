@@ -1,4 +1,4 @@
-# ![Image](assets/instagram.png) Instagram PHP API V2
+# ![Image](assets/instagram.png) Instagram PHP Hashtag Feed v1
 
 An easy-to-use PHP Class for generating a Hashtag Feed
 
