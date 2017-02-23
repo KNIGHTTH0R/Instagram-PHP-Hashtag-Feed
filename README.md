@@ -3,7 +3,6 @@
 An easy-to-use PHP Class for generating a Hashtag Feed
 
 [![Total Downloads](http://img.shields.io/packagist/dm/sebastianerb/instagramfeed.svg?style=flat)](https://packagist.org/packages/sebastianerb/instagramfeed)
-[![Latest Stable Version](http://img.shields.io/packagist/v/sebastianerb/instagramfeed.svg?style=flat)](https://packagist.org/packages/sebastianerb/instagramfeed)
 [![License](https://img.shields.io/packagist/l/sebastianerb/instagramfeed.svg?style=flat)](https://packagist.org/packages/sebastianerb/instagramfeed)
 
 
