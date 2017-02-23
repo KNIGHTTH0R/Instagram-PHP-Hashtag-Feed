@@ -17,7 +17,7 @@ To use the Instagram Feed Class, just follow this 2 steps:
 
 ### 1. Create CRON-Job
 
-@see also: [File](cron/InstaCron.php) InstaCron.php
+@see also: [cron/InstaCron.php](cron/InstaCron.php)
 
 ```php
 require_once($_SERVER['DOCUMENT_ROOT'] . "/instagram/Instagram.php");
@@ -31,7 +31,7 @@ $insta->saveFile();
 
 ### 2. Show Feed
 
-@see also: [File](InstaFeed.php) InstaFeed.php
+@see also: [InstaFeed.php](InstaFeed.php)
 
 ```php
 require_once($_SERVER['DOCUMENT_ROOT'] . "/instagram/Instagram.php");
