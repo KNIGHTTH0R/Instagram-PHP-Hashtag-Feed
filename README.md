@@ -7,8 +7,6 @@ An easy-to-use PHP Class for generating a Hashtag Feed
 [![License](https://img.shields.io/packagist/l/sebastianerb/instagramfeed.svg?style=flat)](https://packagist.org/packages/sebastianerb/instagramfeed)
 
 
-> [Composer](#installation) package available.  
-
 ## Requirements
 - PHP 5.3 or higher
 
