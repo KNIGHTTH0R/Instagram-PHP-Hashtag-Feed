@@ -1,0 +1,20 @@
+{
+	"name": "sebastianerb/instagramfeed",
+	"type": "library",
+	"description": "An easy-to-use PHP Class for generating a Hashtag Feed.",
+	"keywords": ["instagram", "api"],
+	"homepage": "https://github.com/sebastianerb/Instagram-PHP-Hashtag-Feed",
+	"license": "GNU",
+	"authors": [
+		{
+			"name": "Sebastian Erb",
+			"homepage": "http://sebastianerb.com"
+		}
+	],
+	"require": {
+		"php": ">=5.3.0",
+		"ext-curl": "*"
+	},
+	"minimum-stability": "dev",
+	"prefer-stable": true
+}
