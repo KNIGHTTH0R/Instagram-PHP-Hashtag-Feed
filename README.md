@@ -1,6 +1,8 @@
 # ![Image](assets/instagram.png) Instagram PHP Hashtag Feed v1
 
-An easy-to-use PHP Class for generating a Hashtag Feed
+An easy-to-use PHP Class for generating a Hashtag Feed.
+
+I decided to use a CRON-job based way for not downloading and parsing the whole data for a hashtag every time!
 
 [![Total Downloads](http://img.shields.io/packagist/dm/sebastianerb/instagramfeed.svg?style=flat)](https://packagist.org/packages/sebastianerb/instagramfeed)
 [![License](https://img.shields.io/packagist/l/sebastianerb/instagramfeed.svg?style=flat)](https://packagist.org/packages/sebastianerb/instagramfeed)
