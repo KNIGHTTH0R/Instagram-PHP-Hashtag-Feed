@@ -39,3 +39,9 @@ $insta = new AjaxInstagram();
 $insta->jsonFile = $_SERVER['DOCUMENT_ROOT'] . "/cron/hashtaglist.json";
 $insta->showImages(5);
 ```
+
+## Credits
+
+Copyright (c) 2017 - Programmed by Sebastian Erb
+
+Released under the [GNU License](LICENSE).
